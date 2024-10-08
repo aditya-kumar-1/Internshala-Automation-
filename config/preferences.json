@@ -1,0 +1,12 @@
+{
+    "category": [
+        "Web Development",
+        "Software Enginnering"
+    ],
+    "location": [
+        "Delhi",
+        "Noida"
+    ],
+    "duration": "3",
+    "includeWorkFromHome": "false"
+}
